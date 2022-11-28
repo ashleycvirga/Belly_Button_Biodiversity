@@ -9,12 +9,12 @@ She has taken samples from the bellybuttons of a number of volunteers.
 
 This project creates visualizations of the collected bacterial data utilizing JavaScript, Plotly, and D3.js.
 
-These data visualizations allow each volunteer can identify the top 10 bacterial species that were found in their respective belly buttons.
+These data visualizations allow each volunteer to identify the top 10 bacterial species that were found in their respective belly buttons.
 
 
 ## Horizontal Bar Chart of Top 10 Bacterial Specimens 
 
-- drop down menu allows each user to select their volunteer ID number to filter the data and view their top 10 bacterial species (OTUs) that were found in their navel.
+- drop down menu allows each user to select their volunteer ID number to filter the data and view the data from their own collected specimen.
 
 ![]()
 
