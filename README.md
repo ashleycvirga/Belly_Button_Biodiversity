@@ -7,7 +7,7 @@ A scientist for Improbable Beef, a plant based alternative meat manufacturer, is
 
 She has taken samples from the bellybuttons of a number of volunteers. 
 
-This project creates visualizations of the collected bacterial data utilizing JavaScript, Plotly, and D3.ja.
+This project creates visualizations of the collected bacterial data utilizing JavaScript, Plotly, and D3.js.
 
 These data visualizations allow each volunteer can identify the top 10 bacterial species that were found in their respective belly buttons.
 
